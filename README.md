@@ -1,2 +1,2 @@
-# OculusWRP
+# Oculus Wrapper for SteamVR
 It's time to replace your Oculus installations with OculusWRP, a new way to enjoy your Oculus headsets while using SteamVR, natively.
